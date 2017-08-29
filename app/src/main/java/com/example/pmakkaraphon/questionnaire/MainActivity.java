@@ -48,6 +48,7 @@ public class MainActivity extends Activity implements ActionBar.TabListener{
             LinearLayout linearLayout = (LinearLayout) view.findViewById(R.id.linear);
             linearLayout.setBackgroundColor(Color.parseColor(color));*/
 
+            //return n;
             return null;
         }
     }
